@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class TestCompller {
 
-    public String test(){
-        return "123";
+    public static void main(String[] args) {
+        System.out.println("  asfaf");
     }
 }
